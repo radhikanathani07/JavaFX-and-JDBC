@@ -1,0 +1,63 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 22-Apr-2022, 12:24:36 pm
+    Author     : Radhika Nathani
+*/
+.button{
+    -fx-background-color:darkorange;
+    -fx-text-fill:white;
+    -fx-font-family:"Patrick Hand";
+    -fx-font-size:20px;
+    -fx-padding:10px 25px;
+    -fx-cursor:pointer;
+    }
+    #heading{
+    -fx-fill:white;
+    -fx-font-family: 'Cedarville Cursive';
+    -fx-font-size:32px;
+    }
+    #pane{
+    -fx-background-image:url("https://i.pinimg.com/originals/2e/e6/99/2ee6998e34c3e2eff7b894c66cfc5267.jpg");
+    -fx-background-repeat:no-repeat;
+    -fx-background-size:cover;
+    }
+    #state{
+    -fx-border-color:transparent;
+    -fx-font-family:"Franklin Gothic Medium";
+    -fx-font-size:15px;
+    }
+    #text2, #text3{
+    -fx-font-family: 'Cedarville Cursive';
+    -fx-font-size:25px;
+    -fx-fill:white;
+    }
+    #vmen, #vchildren{
+    -fx-background-color:orange;
+    -fx-border-radius:5px;
+    }
+    #vwomen{
+    -fx-background-color:white;
+    -fx-border-radius:5px;
+    }
+    #men1,#women1, #children1{
+    -fx-font-family:"Franklin Gothic Medium";
+    -fx-font-size:32px;
+    }
+    #men2, #women2, #children2{
+    -fx-font-family: 'Cedarville Cursive';
+    -fx-font-size:20px;
+    -fx-padding:0px 0px 25px 0px;
+    -fx-font-weight:bold;
+    }
+    #men3, #women3, #children3{
+    -fx-font-family: 'Cedarville Cursive';
+    -fx-font-size:20px;
+    -fx-padding:0px 0px 30px 0px;
+    -fx-font-weight:bold;
+    }
+    #invi1, #invi2{
+    visibility:hidden;
+    }
